@@ -1,0 +1,13 @@
+Location to Latitude 
+https://api.opencagedata.com/geocode/v1/json?q=Frauenplan+1%2C+99423+Weimar%2C+Germany&key=2b2d333d9f514a779ff7e04d4b86f532
+
+https://us1.locationiq.com/v1/search?key=pk.3c62d70eca2b77b78e06777adc74ccfd&q=221b%2C%20Baker%20St%2C%20London%20&format=json&
+
+#Good API
+https://geocode.search.hereapi.com/v1/geocode?q=1600+Amphitheatre+Parkway,+Mountain+View,+CA&apiKey=aBla2QPb5CZ1Fq8t7nEUJzQpSiRpX4Ja1QGjAsqFXH4
+
+
+
+Latitude + Time to Earthquake detail
+https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&latitude=37.7749&longitude=-122.4194&maxradiuskm=50&starttime=2023-09-01&endtime=2024-09-30
+

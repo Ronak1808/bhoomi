@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "disaster-manager-llwx",
+  "private_key_id": "d1baa9b9af2e53c96178ac4d4077fc3a003e6311",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCj/4HevMIFr1J7\nY+pDEnIpXxhcRFhYOZr4M6m8MQWbKZnVGOy2PB7P8MT8yaMzns/D4XEGoP8hwQFp\n93/oC/DTg0XkhRjNqoBvtcsGePSPLLxkBHs+MMf6xzgCK/z6lgNH7fJQdJ9pJkL8\nZRUku9VkgR0u1LxsFZYPLTXGZgJMMoNybAeYbU9u6CYcFJGbzI4nGBjA8HYmoA1K\ny4hnt81bhn6rKzth0K6XFkRyqXXpO4W7BDLC5anmnEQ+WIgeh9v/clQ3z4AZeDq+\n0WM2tizTr7Jpf9ELfUPzRRRxb1/0tUnWfuDOVl66vukaoBqFSzasAEkcLC9PZcLF\n/Dx3S+57AgMBAAECggEAP++G5B1WzvyQ/YXweIGifDqUtrP2dT7QCd+qVrIN63YG\ngSucbVd28758Lck2lRNfEJC9jcYKcVBbisJw3Th6hRtyjirNhrDoLaUEJ9vUDFV2\nhM+ydIZ0EHLGhSI9GDyPvuUnSPKOi2HdT6Tg31dTVEF57R4G72RjAjuv8U8nqiiP\njrbTOWxnG9qXafAp83wDiOvxhmE3kGGd+KAl3xiCuoSsb9e7tW7nmQaLqtCWdBKS\nP4sqPnzbkcPNoD2uG5/HQmHRlTIRMMXWCwrVVwYrREBDmbGef7KW1xR6xpTibUrC\n5MjB4aZnKjq2C2Ao3Y/gqQ8c8iY6Rkrwzv6b3r0YYQKBgQDNJ5VKbgQ6PjgmsCy1\nffySpnyNAnIDvjlhMYQku21MGwInaztD2Zi1voESd794lr+0e7cYWo7HFMdsOWsF\n4Y+qM1qmOn3fRPm5kDSSPsj53ExJu+NHJfF9JwFWZDtR+81QNdd65m73yGeYPJJm\n0j03A1E4pC3tG29bMfyqbKOGKQKBgQDMpKuipsHPjTYRIXwM5S6jGbEaf+yfZlNA\nNKGPfHQrA2dQiA54ko19IAVY7C7FbSpgBmVaRpo8qz4JDfjtdFvcP6CbgNbYNba5\n7JMnUYvn+ccVxtQa8mFUCX2ycDM5Df7WgOU2TxADZ+l1ZdtSNjkzaR85LPR0iTym\nmhN17un8AwKBgCde3k6fWF5ZDGuYSaw21l7KZoKlIn5HZjmZyBNIiMwfLsWj1YbK\n3nyaZ6jEpFEfFQEs8NFSp63a9f518mz5gZmXK2FVPky3rvkGjKA4Pld9CILp9M71\noCd1cdNDfwLXwOoQux6R1F/m7MKRdUMYO7kwAMlO8KVdK3yj1ipamPMpAoGASSYr\ne85jxM7THrh7YRii3QYX+kLzz96Br5egkGuKEr36thyMH6kzDiDeCHUUGtn0pbJj\nlCtcgocre40VB7vqAgZ0YGFjapF4qWjZCNrrSZZNBYm205MEG0fxOFFG3gQUrZQR\nWqJUNQN1vdMU3IQpWikfUg6xqt5LYbn9btBhrwUCgYAYw3QOU3iAwPAhjp6UANGZ\nqcccXURj58Q6ieZLSt4IWV66XK6mioBJWTsv2DTlkSqNRJ6A0U0BzyMuDdI92Cfz\nGEzKhyWi8te3uirC5JaWRa/Xx2ciwHIBNtATfBmDCPYxoW03HYAK+rg8ZhEwHi/Y\nsJGyvDeFUeIq4W2jNrv/MQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "adminservice@disaster-manager-llwx.iam.gserviceaccount.com",
+  "client_id": "117315014978251554003",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/adminservice%40disaster-manager-llwx.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
