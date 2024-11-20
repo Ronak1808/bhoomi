@@ -1,4 +1,4 @@
 requests==2.31.0
 streamlit==1.26.0
 google-generativeai==0.2.0
-country-bounding-boxes==0.6.0
+country-bounding-boxes
