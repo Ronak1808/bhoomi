@@ -7,7 +7,8 @@ import os
 import google.generativeai as genai
 from datetime import datetime, timedelta
 import streamlit as st
-HERE_API_KEY = os.getenv("HERE_API_KEY")
+GOOGLE_API_KEY = "AIzaSyD0SCjMTG2tJKrTmW6NqQx4JssntIeLpeg"
+HERE_API_KEY = "aBla2QPb5CZ1Fq8t7nEUJzQpSiRpX4Ja1QGjAsqFXH4" 
 media = pathlib.Path(__file__).parents[1] / "BTP"
 
 from country_bounding_boxes import (
@@ -130,7 +131,7 @@ You are Bhoomi, a chatbot designed to provide earthquake-related information. Yo
 """
 
 fns = [get_location_coordinates, check_earthquake_alert, get_current_date]
-genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
+genai.configure(api_key=GOOGLE_API_KEY)
 model = genai.GenerativeModel("gemini-1.5-flash", tools=fns, system_instruction=system_instruction)
 chat = model.start_chat(enable_automatic_function_calling=True)
 helpline = genai.upload_file(media / "helpline.txt")
