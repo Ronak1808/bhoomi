@@ -1,8 +1,6 @@
-from dotenv import load_dotenv
 import requests
 import json
 import pathlib
-load_dotenv()
 import os
 import google.generativeai as genai
 from datetime import datetime, timedelta
